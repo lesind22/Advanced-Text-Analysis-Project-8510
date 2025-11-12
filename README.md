@@ -1,4 +1,4 @@
-# Project Overview: Black History Month and Text Use of JET Magazine
+# Black History Month and Text Use of JET Magazine
 
   I will use the provided script for NER (Named Entity Recognition) code, but I will modify most of the format to tailor it to my dataset. The magazine and month are consecutive, so there's an opportunity to see any changes over time. In this instance, I am choosing February as the month and the years 1993 to 2004. I'm using Jet magazine for this analysis. With the already structured dataset I have, and to track this language change over time, I will be focusing on person names, organizations, and events.
 
