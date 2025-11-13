@@ -8,10 +8,10 @@
   The goal is to track the frequency and context of these entities from 1993 to 2004. For example, was an organization mentioned once and never again? Or, a name used more than others? These are the types of historical questions I am posing.
 
 # Files
- - ner_analysis_people.py (Extracts people; PERSON)
+ - batch_ner_people.py (Extracts people; PERSON)
  - ner_analysis_location.py (Extracts location; GPE or LOC)
  - requirements.txt (Dependencies to run Scripts)
  - setup.py (setup script for Installation)
- - JET Feb. Txt Files (Articles used to run Scripts) 
+
 
 # How to Run Scripts
