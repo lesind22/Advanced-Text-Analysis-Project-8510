@@ -10,3 +10,5 @@
  - requirements.txt (Dependencies to run Scripts)
  - setup.py (setup script for Installation)
  - JET Feb. Txt Files (Articles used to run Scripts) 
+
+# How to Run Scripts
