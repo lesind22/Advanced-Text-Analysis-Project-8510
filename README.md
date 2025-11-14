@@ -18,6 +18,6 @@ The magazine and month are consecutive, so there's an opportunity to see any cha
 Open VSCode and Terminal
 
 Create your virtual environment:
-	python -m venv venv 
-	source ner_env/bin/activate
+python -m venv venv 
+source ner_env/bin/activate
 
