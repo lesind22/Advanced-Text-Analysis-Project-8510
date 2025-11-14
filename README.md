@@ -15,7 +15,9 @@ The magazine and month are consecutive, so there's an opportunity to see any cha
 
 # How to Run Scripts
 
-1. Create your virtual environment:
-	python3 venv/bin/activate
-	
+Open VSCode and Terminal
+
+Create your virtual environment:
+	python -m venv venv 
+	source ner_env/bin/activate
 
