@@ -16,5 +16,6 @@ The magazine and month are consecutive, so there's an opportunity to see any cha
 # How to Run Scripts
 
 1. Create your virtual environment:
-   python3 -m venv ner_env
-   source ner_env/bin/activate
+	python3 venv/bin/activate
+	
+
