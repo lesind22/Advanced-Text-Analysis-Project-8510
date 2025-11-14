@@ -9,7 +9,8 @@
 
 # Files
  - batch_ner_people.py (Extracts people; PERSON)
- - ner_analysis_location.py (Extracts location; GPE or LOC)
+ - batch_ner_locations_dates.py (Extracts location; GPE or LOC)
+ - pdfs_to_txt.py (Convert JET PDFs to txt files)
  - requirements.txt (Dependencies to run Scripts)
  - setup.py (setup script for Installation)
 
