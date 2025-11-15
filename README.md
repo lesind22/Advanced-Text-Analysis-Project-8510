@@ -6,12 +6,12 @@ The magazine and month are consecutive, so there's an opportunity to see any cha
 
 
 # Files
- - # batch_ner_people.py (Extracts people; PERSON)
- - # batch_ner_locations_dates.py (Extracts location; GPE or LOC)
- - # pdfs_to_txt.py (Convert JET PDFs to txt files)
- - # requirements(2).txt (Dependencies to run Scripts)
- - # setup.py (setup script for Installation)
- - # results (folder containing CSV files)
+ - batch_ner_people.py (Extracts people; PERSON)
+ - batch_ner_locations_dates.py (Extracts location; GPE or LOC)
+ - pdfs_to_txt.py (Convert JET PDFs to txt files)
+ - requirements(2).txt (Dependencies to run Scripts)
+ - setup.py (setup script for Installation)
+ - results (folder containing CSV files)
 
 
 # Note:
