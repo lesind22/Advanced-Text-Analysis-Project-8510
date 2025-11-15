@@ -6,12 +6,13 @@ The magazine and month are consecutive, so there's an opportunity to see any cha
 
 
 # Files
- - batch_ner_people.py (Extracts people; PERSON)
- - batch_ner_locations_dates.py (Extracts location; GPE or LOC)
- - pdfs_to_txt.py (Convert JET PDFs to txt files)
- - requirements.txt (Dependencies to run Scripts)
- - setup.py (setup script for Installation)
- - results (folder containing CSV files)
+ - # batch_ner_people.py (Extracts people; PERSON)
+ - # batch_ner_locations_dates.py (Extracts location; GPE or LOC)
+ - # pdfs_to_txt.py (Convert JET PDFs to txt files)
+ - # requirements(2).txt (Dependencies to run Scripts)
+ - # setup.py (setup script for Installation)
+ - # results (folder containing CSV files)
+
 
 # Note:
 If the reset script is run, you will have to reinstall these dependencies:
@@ -68,5 +69,14 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
 
 
 # Output
+The results of all scripts will be saved to the results/ directory as CSV files. 
+Completed CSV results are also located in the "results" folder of this repository. 
+
+# Reset
+If one would like to reset any script or remove all results run the reset.py 
+
+To do this via terminal enter:
+
+	python reset.py
 
 
