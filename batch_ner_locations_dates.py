@@ -30,7 +30,7 @@ def extract_entities(text, nlp):
             entities.append({
                 'text': ent.text,
                 'label': ent.label_,
-                'filename': None  # placeholder, filled in process_folder
+                'filename': None  
             })
     return entities
 
