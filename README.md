@@ -8,8 +8,10 @@ Note:
 If the reset script is run, you will have to reinstall these dependencies:
 
 		pip install spacy
+_________________________________________________________________________
 
 		pip install pandas
+_________________________________________________________________________
 
 		pip install pdfminer.six
 
