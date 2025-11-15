@@ -11,6 +11,7 @@ The magazine and month are consecutive, so there's an opportunity to see any cha
  - pdfs_to_txt.py (Convert JET PDFs to txt files)
  - requirements.txt (Dependencies to run Scripts)
  - setup.py (setup script for Installation)
+ - results (folder containing csv files)
 
 
 # How to Run Scripts
