@@ -72,6 +72,7 @@ Installation of large spaCy model:
 
 # Output
 The results of all scripts will be saved to the results/ directory as CSV files. 
+
 Completed CSV results are also located in the "results" folder of this repository. 
 
 # Reset
