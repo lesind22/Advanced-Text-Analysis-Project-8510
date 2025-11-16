@@ -50,23 +50,24 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
 
 # spaCy Models Used in Project and How to Install:
 
-	python -m spacy download en_core_web_sm 
-	
-    python -m spacy download en_core_web_lg 
+		python -m spacy download en_core_web_sm 
+
+
+# Installation of large model:
+   	 	python -m spacy download en_core_web_lg 
 
 
  # Basic Usage (Model Used for Project):
  
-__________________________________________________________________________________
- # Activate your virtual environment 
+	 # Activate your virtual environment: 
 		source ner_env/bin/activate 
 
- # Extract Locations and Dates 
+	 # Extract Locations and Dates: 
 		python batch_ner_locations_dates.py "JET txt files" --model en_core_web_sm
 
- # Extract People
+ 	# Extract People:
 		python batch_ner_people.py "JET txt files" --model en_core_web_lg
-__________________________________________________________________________________
+
 
 # Output
 The results of all scripts will be saved to the results/ directory as CSV files. 
