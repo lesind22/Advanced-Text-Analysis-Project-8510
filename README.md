@@ -50,8 +50,10 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
 
 # spaCy Models Used in Project and How to Install:
 
-	- python -m spacy download en_core_web_sm 
-	- python -m spacy download en_core_web_lg 
+	python -m spacy download en_core_web_sm 
+	_______________________________________
+	
+    python -m spacy download en_core_web_lg 
 
 
 # Usage:
