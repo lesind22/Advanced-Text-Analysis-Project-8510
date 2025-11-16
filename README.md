@@ -53,7 +53,7 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
 		python -m spacy download en_core_web_sm 
 
 
-Installation of large model: 
+Installation of large spaCy model: 
 
 		python -m spacy download en_core_web_lg
 
@@ -81,4 +81,9 @@ To do this via terminal enter:
 
 	python reset.py
 
+# Deactivation of Virtual Environment:
+To deactivate and return to your standard zsh terminal in VSCode enter:
 
+	deactivate
+
+Everything should return to its original format
