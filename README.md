@@ -53,8 +53,8 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
 		python -m spacy download en_core_web_sm 
 
 
-# Installation of large model:
-   	 	python -m spacy download en_core_web_lg 
+Installation of large model: 
+		python -m spacy download en_core_web_lg
 
 
  # Basic Usage (Model Used for Project):
