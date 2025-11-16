@@ -51,7 +51,6 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
 # spaCy Models Used in Project and How to Install:
 
 	python -m spacy download en_core_web_sm 
-	_______________________________________
 	
     python -m spacy download en_core_web_lg 
 
@@ -75,7 +74,7 @@ The results of all scripts will be saved to the results/ directory as CSV files.
 Completed CSV results are also located in the "results" folder of this repository. 
 
 # Reset
-If one would like to reset any script or remove all results run the reset.py 
+If one would like to reset any script or remove all results, run the reset.py 
 
 To do this via terminal enter:
 
