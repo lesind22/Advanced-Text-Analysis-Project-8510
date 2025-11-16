@@ -87,4 +87,4 @@ To deactivate and return to your standard zsh terminal in VSCode enter:
 
 	deactivate
 
-Everything should return to its original format
+Everything should return to its original format.
