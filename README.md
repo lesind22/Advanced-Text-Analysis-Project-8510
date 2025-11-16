@@ -55,10 +55,9 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
     python -m spacy download en_core_web_lg 
 
 
-# Usage:
-
  # Basic Usage (Model Used for Project):
-
+ 
+__________________________________________________________________________________
  # Activate your virtual environment 
 		source ner_env/bin/activate 
 
@@ -67,7 +66,7 @@ Run the PDFs to TXT script (before NER), which will generate the .txt files seen
 
  # Extract People
 		python batch_ner_people.py "JET txt files" --model en_core_web_lg
-
+__________________________________________________________________________________
 
 # Output
 The results of all scripts will be saved to the results/ directory as CSV files. 
